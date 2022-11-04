@@ -1,0 +1,6 @@
+{
+    "versionCode": 543,
+    "versionName": "v3.6",
+    "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
+    "downloadUrl": ""
+}
